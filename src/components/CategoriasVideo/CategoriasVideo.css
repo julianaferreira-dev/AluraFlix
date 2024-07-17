@@ -1,0 +1,81 @@
+/* .tecnologia h3 {   
+    width: 426px;
+    height: 70px;
+    font-size: 36px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.tecnologia__card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px 30px;
+}
+
+.tecnologia {
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column; 
+    gap: 60px
+}
+
+
+.categoria-vazia {
+    width: auto;
+    height: 292px;    
+    font-size: 22px;
+    font-weight: 400;
+    opacity: .5;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.categorias-videos {
+    width: 100%;
+    max-width: 1440px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column; 
+    gap: 60px;
+    margin: 0 auto;
+}
+
+.categorias-videos h3 {   
+    max-width: 388px;
+    height: 70px;
+    font-size: 36px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.categorias-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 65px 46px;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+
+
+.categoria-vazia {
+    width: 100%;
+    height: 219px;    
+    font-size: 22px;
+    font-weight: 400;
+    opacity: .5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

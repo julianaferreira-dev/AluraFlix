@@ -1,0 +1,18 @@
+.botao-padrao {
+    width: 120px;
+    height: 40px;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+
+    border: 2px;
+    border-style: solid;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

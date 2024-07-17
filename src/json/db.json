@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+      "categoria": "frontend",
+      "imagem": "https://i.ytimg.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/ZY3-MFxVdEw?si=qdXi9DaclkrWROMA",
+      "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio!"
+    },
+    {
+      "id": 2,
+      "titulo": "Engenheiro de software ou Programador? com Paulo Silveira | #HipstersPontoTube",
+      "categoria": "backend",
+      "imagem": "https://i.ytimg.com/vi/Gm6U-AxXEQ0/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/Gm6U-AxXEQ0?si=KrgfYQZAXnAUKVQp",
+      "descricao": "Engenheiro de software, pessoa que programa ou dev, o que você é? Neste #HipstersPontoTube o Mario Souto e o Paulo Silveira discutem um assunto filosófico na comunidade: as diferenças entre essas três formações."
+    },
+    {
+      "id": 3,
+      "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
+      "categoria": "backend",
+      "imagem": "https://i.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTpL8dYV4PwLV0Q3OminyZxlRR2Q",
+      "video": "https://www.youtube.com/embed/fiPfvylj6rk?si=B-fzqQ-ChYOfu90K",
+      "descricao": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira? A Juliana Amoasei responde tudo isso pra você no vídeo! Confere aí! "
+    },
+    {
+      "id": 4,
+      "titulo": "O que e React JS? #HipstersPontoTube",
+      "categoria": "frontend",
+      "imagem": "https://i.ytimg.com/vi/6IuQUgeDPg0/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/6IuQUgeDPg0?si=6i7HQWs-ZxiI2tXz",
+      "descricao": "Como surgiu o react JS? Afinal, o que é React JS? Neste vídeo, Vanessa Tonini e Mario Souto explicam isto para você falando sobre como esta ferramenta surgiu, para que ela serve, quais são suas aplicações e relação com outras ferramentas e como começar a trabalhar com ele."
+    },
+    {
+      "id": 5,
+      "titulo": "Grandes sistemas em PHP com Vinicius Dias | #HipstersPontoTube",
+      "categoria": "backend",
+      "imagem": "https://i.ytimg.com/vi/arZCoJMSTlI/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/arZCoJMSTlI?si=Ah-xa-4hFsm2HbvD",
+      "descricao": "Os Grandes Sistemas em que o PHP foi usado, desde o Wordpress ou Magento, até a sua evolução com PHP 7 e PHP 8 aumentando a performance do código em comparação com a Hack Language, esta última criada pela Meta (Facebook) que começou utilizando PHP. Você sabia que a maioria dos sites são em wordpress e rodam em PHP? PHP é o tema do bate papo deste #HipstersPontoTube com o host Paulo Silveira e conta com a participação de Vinicius Dias para explicar um pouco mais sobre o tema. "
+    },
+    {
+      "id": 7,
+      "titulo": "Desmistificando Mobile - Por onde eu começo? #01",
+      "categoria": "mobile",
+      "imagem": "https://i.ytimg.com/vi/2z6f8VN_Pro/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/2z6f8VN_Pro",
+      "descricao": "A Websérie “Desmistificando o mobile” vêm aí para simplificar com exemplos práticos vários assuntos envolvendo o mundo dos aplicativos de celular e neste primeiro episódio vamos partir, literalmente, do começo, por onde começar a estudar sobre o mundo dos apps?"
+    },
+    {
+      "id": 6,
+      "titulo": "ConstraintLayout no Android | #AluraMais",
+      "categoria": "mobile",
+      "imagem": "https://i.ytimg.com/vi/p4fiAiiPi3E/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/p4fiAiiPi3E?si=KodkoIsIJGDM7Y-f",
+      "descricao": "Neste #AluraMais, a Jeniffer Bittencourt, Instrutora na Escola Mobile da Alura, vai mostrar algumas formas implementar e otimizar a criação de layouts maiores e mais complexos utilizando o Constraint Layout."
+    },
+    {
+      "id": 8,
+      "titulo": "Desenvolvimento Android #HipstersPontoTube",
+      "categoria": "mobile",
+      "imagem": "https://i.ytimg.com/vi/fWscDFHKgw8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/fWscDFHKgw8?si=bRR0i35sbNCu8nYP",
+      "descricao": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais!"
+    },
+    {
+      "id": 9,
+      "titulo": "Como configurar o React Router para sua SPA | #AluraMais",
+      "categoria": "frontend",
+      "imagem": "https://i.ytimg.com/vi/4Tb8dp5GYqI/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/4Tb8dp5GYqI?si=jMQsMvnxwb-8XsXz",
+      "descricao": "Veja o passo a passo para configurar o React Router do zero e organize as rotas na sua aplicação. Esse é apenas um dos Alura+, vídeos curtos para você se atualizar sobre as tecnologias emergentes e modinhas do mundo tech...mas com muita seriedade!  Você encontra todos esses conteúdos na plataforma da Alura, além de uma centena de cursos de tecnologia para alavancar a sua carreira!"
+    }
+  ]
+}

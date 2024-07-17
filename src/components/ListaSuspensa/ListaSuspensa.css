@@ -1,0 +1,44 @@
+fieldset.lista-suspensa {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+}
+
+.lista-suspensa label {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+select {
+    width: 100%;
+    height: 50px;
+    padding: 0px 11px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url('../../../public/images/seta.png') 98% 50% no-repeat;
+    color: #A5A5A5;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;    
+    border: 3px;
+    border-style: solid;
+    border-radius: 15px;    
+    resize: none;
+    outline: none;
+}
+
+select option {
+    color: #A5A5A5;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    background-color: rgba(0, 0, 0, 0.9);   
+}
+
+select option#desativado {
+    color: rgb(58, 58, 58);
+}
